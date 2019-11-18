@@ -16,4 +16,8 @@
 - Ngôn ngữ lập trình : Python
 - Cơ sở dữ liệu : MySQL
 - Công cụ sử dụng : PyCharm, Eclipse.
-
+#### 1.4 Thành Viên :
+- Võ Thanh Hải
+- Nguyễn Văn Đô
+- Bùi Hải Đăng
+- Dương Ngọc Quỳnh An
