@@ -13,9 +13,10 @@
 - Giao diện đơn giản, dễ sử dụng.
 
 #### 1.3 Công nghệ và công cụ sử dụng:
-- Ngôn ngữ lập trình : Python
-- Cơ sở dữ liệu : MySQL
-- Công cụ sử dụng : PyCharm, Eclipse.
+- Ngôn ngữ lập trình : PHP.
+- HTML5, CSS.
+- Cơ sở dữ liệu : MySQL.
+- Công cụ sử dụng : PHPStorm, SublimeText3.
 #### 1.4 Thành Viên :
 - Võ Thanh Hải
 - Nguyễn Văn Đô
